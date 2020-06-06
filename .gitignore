@@ -1,0 +1,11 @@
+.pio
+.clang_complete
+.gcc-flags.json
+.travis.yml
+Papelera.code-workspace
+.vscode/c_cpp_properties.json
+.vscode/extensions.json
+.vscode/launch.json
+include/README
+lib/README
+test/README
